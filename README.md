@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Enough?**
 
-- 🌱 I’m currently learning **React, node.js, C#, Kotlin**
+- 🌱 I’m currently learning **React, node.js, go, Kotlin**
 
 - 📫 How to reach me **gauravkumarsde2003@gmail.com**
 
